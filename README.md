@@ -39,13 +39,16 @@ Set defaults for concert-this (Garbage), spotify-this-song (Ace of Base 'The Sig
 
 
 ### Screenshots Of The App In Action
-**_concert-this_**
+**_concert-this_** command
 ![concert-this](concert-this.png)
 
+**_spotify-this-song_** command
 ![spotify-this-song](spotify-this-song.png)
 
+**_movie-this_** command
 ![movie-this](movie-this.png)
 
+**_do-what-it-says_** command
 ![do-what-it-says](do-what-it-says.png)
 
 
