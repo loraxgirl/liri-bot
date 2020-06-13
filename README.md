@@ -1,10 +1,11 @@
-# Liri-Bot - created by Krista Clarke (github - loraxgirl)
+# Liri-Bot
+## <span style="color:blue">created by Krista Clarke (github - loraxgirl)</span> ##
 Language Interpretation and Recognition Interface
 
 ## Assignment Details
-Week 09 Homework - Tasked with the problem of creating a LIRI-Bot. Similar to Apple's SIRI, Speech Interpretation and Recognition Interface. LIRI take commands via the command line, rather than using voice recognition to interpret the data.
+UCLA Full-stack Web Development Bootcamp - Week 09 Homework - Tasked with the problem of creating a LIRI-Bot. Similar to Apple's SIRI, Speech Interpretation and Recognition Interface. LIRI take commands via the command line, rather than using voice recognition to interpret the data.
 
-** LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies. **
+**LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.**
 
 
 ## Commands
@@ -44,6 +45,8 @@ Set defaults for concert-this (Garbage), spotify-this-song (Ace of Base 'The Sig
 ![spotify-this-song](spotify-this-song.png)
 
 ![movie-this](movie-this.png)
+
+![do-what-it-says](do-what-it-says.png)
 
 
 ### Future Enhancements
