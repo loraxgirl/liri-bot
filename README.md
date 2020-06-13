@@ -1,5 +1,5 @@
 # Liri-Bot
-## <span style="color:blue">created by Krista Clarke (github - loraxgirl)</span> ##
+## created by Krista Clarke (github - loraxgirl) ##
 Language Interpretation and Recognition Interface
 
 ## Assignment Details
@@ -39,7 +39,7 @@ Set defaults for concert-this (Garbage), spotify-this-song (Ace of Base 'The Sig
 
 
 ### Screenshots Of The App In Action
-
+**_concert-this_**
 ![concert-this](concert-this.png)
 
 ![spotify-this-song](spotify-this-song.png)
