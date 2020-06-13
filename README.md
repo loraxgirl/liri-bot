@@ -3,7 +3,8 @@ _created by Krista Clarke (github - loraxgirl)_<br>
 **Language Interpretation and Recognition Interface**
 
 ## Assignment Details
-UCLA Full-stack Web Development Bootcamp - Week 09 Homework - Tasked with the problem of creating a LIRI-Bot. Similar to Apple's SIRI, Speech Interpretation and Recognition Interface. LIRI take commands via the command line, rather than using voice recognition to interpret the data.
+**UCLA Full-stack Web Development Bootcamp - Week 09 Homework**<br>
+Create a LIRI-Bot. Similar to Apple's SIRI, Speech Interpretation and Recognition Interface. LIRI take commands via the command line, rather than using voice recognition to interpret the data. Use 3 APIs and multiple Node modules to pull artist, song and movie date using 4 defined commands, hide API keys, and create a detailed ReadMe file. 
 
 **LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.**
 
