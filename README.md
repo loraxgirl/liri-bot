@@ -1,6 +1,6 @@
 # Liri-Bot
-**_created by Krista Clarke (github - loraxgirl)_**
-Language Interpretation and Recognition Interface
+_created by Krista Clarke (github - loraxgirl)_<br>
+**Language Interpretation and Recognition Interface**
 
 ## Assignment Details
 UCLA Full-stack Web Development Bootcamp - Week 09 Homework - Tasked with the problem of creating a LIRI-Bot. Similar to Apple's SIRI, Speech Interpretation and Recognition Interface. LIRI take commands via the command line, rather than using voice recognition to interpret the data.
