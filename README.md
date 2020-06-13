@@ -1,5 +1,5 @@
 # Liri-Bot
-<span style="color:red">created by Krista Clarke (github - loraxgirl)</span>
+**_created by Krista Clarke (github - loraxgirl)_**
 Language Interpretation and Recognition Interface
 
 ## Assignment Details
